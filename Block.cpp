@@ -33,5 +33,13 @@ void Block::minBlock(uint32_t nDifficulty) { // taken from the original mining c
         newHash = calculateHash();
     } while (newHash.substr(0, nDifficulty) != str);
 
-    cout << "Block mined: " << newHash <<" at " << asctime(localtime(&timer)) << endl;
+    cout << "Block mined: " << newHash << endl;
+}
+
+void Block::returnNewHash() {
+    cout << newHash;
+}
+
+void Block::returnData() {
+    cout << data;
 }

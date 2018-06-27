@@ -9,6 +9,8 @@ public:
     Block(uint32_t nIndex, const string &data);
     string getHash();
     void minBlock(uint32_t nDifficulty);
+    void returnNewHash();
+    void returnData();
 
 private:
     uint32_t nIndex;

@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/C++ projects/OffChain/Block.cpp
+block.h
+D:/C++ projects/OffChain/block.h
+sha256.h
+D:/C++ projects/OffChain/sha256.h
+sstream
+-
+
+D:/C++ projects/OffChain/Blockchain.cpp
+Blockchain.h
+D:/C++ projects/OffChain/Blockchain.h
+
+D:/C++ projects/OffChain/Blockchain.h
+cstdint
+-
+block.h
+D:/C++ projects/OffChain/block.h
+list
+-
+
+D:/C++ projects/OffChain/block.h
+iostream
+-
+ctime
+-
+
+D:/C++ projects/OffChain/main.cpp
+iostream
+-
+ctime
+-
+Blockchain.h
+D:/C++ projects/OffChain/Blockchain.h
+
+D:/C++ projects/OffChain/sha256.cpp
+cstring
+-
+fstream
+-
+sha256.h
+D:/C++ projects/OffChain/sha256.h
+
+D:/C++ projects/OffChain/sha256.h
+string
+-
+
