@@ -36,10 +36,10 @@ void Block::minBlock(uint32_t nDifficulty) { // taken from the original mining c
     cout << "Block mined: " << newHash << endl;
 }
 
-void Block::returnNewHash() {
-    cout << newHash;
+string Block::returnNewHash() {
+    return newHash;
 }
 
-void Block::returnData() {
-    cout << data;
+string Block::returnData() {
+    return data;
 }

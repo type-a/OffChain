@@ -16,10 +16,18 @@ Block Blockchain::getLastHash() const {
 }
 
 
-void Blockchain::getHash() {
-    offChain.back().returnNewHash();
+string Blockchain::getHash() {
+    return offChain.back().returnNewHash();
 }
 
-void Blockchain::getData() {
-    offChain.back().returnData();
+string Blockchain::getData() {
+    return offChain.back().returnData();
+}
+
+int Blockchain::size() {
+    return offChain.size();
+}
+
+void Blockchain::removeBlock() {
+    offChain.pop_back();
 }
