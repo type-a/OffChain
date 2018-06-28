@@ -92,6 +92,9 @@
 		<Unit filename="D:/C++ projects/OffChain/Blockchain.h">
 			<Option target="OffChain"/>
 		</Unit>
+		<Unit filename="D:/C++ projects/OffChain/atomic_swap.h">
+			<Option target="OffChain"/>
+		</Unit>
 		<Unit filename="D:/C++ projects/OffChain/block.h">
 			<Option target="OffChain"/>
 		</Unit>

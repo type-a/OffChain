@@ -10,6 +10,7 @@ CMakeFiles/OffChain.dir/Blockchain.cpp.obj: ../Blockchain.h
 CMakeFiles/OffChain.dir/Blockchain.cpp.obj: ../block.h
 
 CMakeFiles/OffChain.dir/main.cpp.obj: ../Blockchain.h
+CMakeFiles/OffChain.dir/main.cpp.obj: ../atomic_swap.h
 CMakeFiles/OffChain.dir/main.cpp.obj: ../block.h
 CMakeFiles/OffChain.dir/main.cpp.obj: ../main.cpp
 

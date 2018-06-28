@@ -26,6 +26,10 @@ D:/C++ projects/OffChain/block.h
 list
 -
 
+D:/C++ projects/OffChain/atomic_swap.h
+Blockchain.h
+D:/C++ projects/OffChain/Blockchain.h
+
 D:/C++ projects/OffChain/block.h
 iostream
 -
@@ -37,8 +41,8 @@ iostream
 -
 ctime
 -
-Blockchain.h
-D:/C++ projects/OffChain/Blockchain.h
+atomic_swap.h
+D:/C++ projects/OffChain/atomic_swap.h
 
 D:/C++ projects/OffChain/sha256.cpp
 cstring

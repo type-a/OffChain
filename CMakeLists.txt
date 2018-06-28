@@ -3,4 +3,4 @@ project(OffChain)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(OffChain main.cpp sha256.h sha256.cpp block.h Blockchain.h Block.cpp Blockchain.cpp)
+add_executable(OffChain main.cpp sha256.h sha256.cpp block.h Blockchain.h Block.cpp Blockchain.cpp atomic_swap.h)
