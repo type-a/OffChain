@@ -1,9 +1,4 @@
-#include <iostream>
-#include <ctime>
 #include "atomic_swap.h"
-
-
-
 
 int main(){
     Blockchain A = Blockchain();
