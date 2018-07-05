@@ -75,7 +75,7 @@ targeted to build a working blockchain prototype.
 ## Usage
 
 ~~~
->> g++ main.cpp      # main code 
+>> g++ main.cpp   # main code 
                   # if everyhing goes fine we are good to go
 >> ./a.exe
 ~~~
