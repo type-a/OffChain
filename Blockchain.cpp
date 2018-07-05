@@ -2,7 +2,7 @@
 
 Blockchain ::Blockchain() {
     offChain.emplace_back(Block(0,"Genesis Block!"));
-    nDifficulty = 3; // change this if you want to increase mining difficulty ....
+    nDifficulty = 4; // change this if you want to increase mining difficulty ....
 }
 
 void Blockchain::addBlock(Block newBlock) {

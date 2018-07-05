@@ -1,4 +1,7 @@
 # Blockchain daily
+[![Inline docs](http://inch-ci.org/github/type-a/offchain.svg?branch=master)](http://inch-ci.org/github/type-a/offchain)
+[![Build Status](https://travis-ci.org/type-a/offchain.png?branch=master)](https://travis-ci.org/type-a/offchain)
+
 
 ## Getting Started
 
