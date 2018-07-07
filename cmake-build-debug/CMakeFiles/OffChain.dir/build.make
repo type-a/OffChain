@@ -56,116 +56,116 @@ include CMakeFiles/OffChain.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/OffChain.dir/flags.make
 
-CMakeFiles/OffChain.dir/main.cpp.obj: CMakeFiles/OffChain.dir/flags.make
-CMakeFiles/OffChain.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\C++ projects\OffChain\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/OffChain.dir/main.cpp.obj"
-	C:\Users\sarka\Downloads\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\OffChain.dir\main.cpp.obj -c "D:\C++ projects\OffChain\main.cpp"
+CMakeFiles/OffChain.dir/Project/main.cpp.obj: CMakeFiles/OffChain.dir/flags.make
+CMakeFiles/OffChain.dir/Project/main.cpp.obj: ../Project/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\C++ projects\OffChain\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/OffChain.dir/Project/main.cpp.obj"
+	C:\Users\sarka\Downloads\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\OffChain.dir\Project\main.cpp.obj -c "D:\C++ projects\OffChain\Project\main.cpp"
 
-CMakeFiles/OffChain.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OffChain.dir/main.cpp.i"
-	C:\Users\sarka\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\C++ projects\OffChain\main.cpp" > CMakeFiles\OffChain.dir\main.cpp.i
+CMakeFiles/OffChain.dir/Project/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OffChain.dir/Project/main.cpp.i"
+	C:\Users\sarka\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\C++ projects\OffChain\Project\main.cpp" > CMakeFiles\OffChain.dir\Project\main.cpp.i
 
-CMakeFiles/OffChain.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OffChain.dir/main.cpp.s"
-	C:\Users\sarka\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\C++ projects\OffChain\main.cpp" -o CMakeFiles\OffChain.dir\main.cpp.s
+CMakeFiles/OffChain.dir/Project/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OffChain.dir/Project/main.cpp.s"
+	C:\Users\sarka\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\C++ projects\OffChain\Project\main.cpp" -o CMakeFiles\OffChain.dir\Project\main.cpp.s
 
-CMakeFiles/OffChain.dir/main.cpp.obj.requires:
+CMakeFiles/OffChain.dir/Project/main.cpp.obj.requires:
 
-.PHONY : CMakeFiles/OffChain.dir/main.cpp.obj.requires
+.PHONY : CMakeFiles/OffChain.dir/Project/main.cpp.obj.requires
 
-CMakeFiles/OffChain.dir/main.cpp.obj.provides: CMakeFiles/OffChain.dir/main.cpp.obj.requires
-	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/main.cpp.obj.provides.build
-.PHONY : CMakeFiles/OffChain.dir/main.cpp.obj.provides
+CMakeFiles/OffChain.dir/Project/main.cpp.obj.provides: CMakeFiles/OffChain.dir/Project/main.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/Project/main.cpp.obj.provides.build
+.PHONY : CMakeFiles/OffChain.dir/Project/main.cpp.obj.provides
 
-CMakeFiles/OffChain.dir/main.cpp.obj.provides.build: CMakeFiles/OffChain.dir/main.cpp.obj
-
-
-CMakeFiles/OffChain.dir/sha256.cpp.obj: CMakeFiles/OffChain.dir/flags.make
-CMakeFiles/OffChain.dir/sha256.cpp.obj: ../sha256.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\C++ projects\OffChain\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/OffChain.dir/sha256.cpp.obj"
-	C:\Users\sarka\Downloads\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\OffChain.dir\sha256.cpp.obj -c "D:\C++ projects\OffChain\sha256.cpp"
-
-CMakeFiles/OffChain.dir/sha256.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OffChain.dir/sha256.cpp.i"
-	C:\Users\sarka\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\C++ projects\OffChain\sha256.cpp" > CMakeFiles\OffChain.dir\sha256.cpp.i
-
-CMakeFiles/OffChain.dir/sha256.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OffChain.dir/sha256.cpp.s"
-	C:\Users\sarka\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\C++ projects\OffChain\sha256.cpp" -o CMakeFiles\OffChain.dir\sha256.cpp.s
-
-CMakeFiles/OffChain.dir/sha256.cpp.obj.requires:
-
-.PHONY : CMakeFiles/OffChain.dir/sha256.cpp.obj.requires
-
-CMakeFiles/OffChain.dir/sha256.cpp.obj.provides: CMakeFiles/OffChain.dir/sha256.cpp.obj.requires
-	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/sha256.cpp.obj.provides.build
-.PHONY : CMakeFiles/OffChain.dir/sha256.cpp.obj.provides
-
-CMakeFiles/OffChain.dir/sha256.cpp.obj.provides.build: CMakeFiles/OffChain.dir/sha256.cpp.obj
+CMakeFiles/OffChain.dir/Project/main.cpp.obj.provides.build: CMakeFiles/OffChain.dir/Project/main.cpp.obj
 
 
-CMakeFiles/OffChain.dir/Block.cpp.obj: CMakeFiles/OffChain.dir/flags.make
-CMakeFiles/OffChain.dir/Block.cpp.obj: ../Block.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\C++ projects\OffChain\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/OffChain.dir/Block.cpp.obj"
-	C:\Users\sarka\Downloads\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\OffChain.dir\Block.cpp.obj -c "D:\C++ projects\OffChain\Block.cpp"
+CMakeFiles/OffChain.dir/Project/sha256.cpp.obj: CMakeFiles/OffChain.dir/flags.make
+CMakeFiles/OffChain.dir/Project/sha256.cpp.obj: ../Project/sha256.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\C++ projects\OffChain\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/OffChain.dir/Project/sha256.cpp.obj"
+	C:\Users\sarka\Downloads\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\OffChain.dir\Project\sha256.cpp.obj -c "D:\C++ projects\OffChain\Project\sha256.cpp"
 
-CMakeFiles/OffChain.dir/Block.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OffChain.dir/Block.cpp.i"
-	C:\Users\sarka\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\C++ projects\OffChain\Block.cpp" > CMakeFiles\OffChain.dir\Block.cpp.i
+CMakeFiles/OffChain.dir/Project/sha256.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OffChain.dir/Project/sha256.cpp.i"
+	C:\Users\sarka\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\C++ projects\OffChain\Project\sha256.cpp" > CMakeFiles\OffChain.dir\Project\sha256.cpp.i
 
-CMakeFiles/OffChain.dir/Block.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OffChain.dir/Block.cpp.s"
-	C:\Users\sarka\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\C++ projects\OffChain\Block.cpp" -o CMakeFiles\OffChain.dir\Block.cpp.s
+CMakeFiles/OffChain.dir/Project/sha256.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OffChain.dir/Project/sha256.cpp.s"
+	C:\Users\sarka\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\C++ projects\OffChain\Project\sha256.cpp" -o CMakeFiles\OffChain.dir\Project\sha256.cpp.s
 
-CMakeFiles/OffChain.dir/Block.cpp.obj.requires:
+CMakeFiles/OffChain.dir/Project/sha256.cpp.obj.requires:
 
-.PHONY : CMakeFiles/OffChain.dir/Block.cpp.obj.requires
+.PHONY : CMakeFiles/OffChain.dir/Project/sha256.cpp.obj.requires
 
-CMakeFiles/OffChain.dir/Block.cpp.obj.provides: CMakeFiles/OffChain.dir/Block.cpp.obj.requires
-	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/Block.cpp.obj.provides.build
-.PHONY : CMakeFiles/OffChain.dir/Block.cpp.obj.provides
+CMakeFiles/OffChain.dir/Project/sha256.cpp.obj.provides: CMakeFiles/OffChain.dir/Project/sha256.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/Project/sha256.cpp.obj.provides.build
+.PHONY : CMakeFiles/OffChain.dir/Project/sha256.cpp.obj.provides
 
-CMakeFiles/OffChain.dir/Block.cpp.obj.provides.build: CMakeFiles/OffChain.dir/Block.cpp.obj
+CMakeFiles/OffChain.dir/Project/sha256.cpp.obj.provides.build: CMakeFiles/OffChain.dir/Project/sha256.cpp.obj
 
 
-CMakeFiles/OffChain.dir/Blockchain.cpp.obj: CMakeFiles/OffChain.dir/flags.make
-CMakeFiles/OffChain.dir/Blockchain.cpp.obj: ../Blockchain.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\C++ projects\OffChain\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/OffChain.dir/Blockchain.cpp.obj"
-	C:\Users\sarka\Downloads\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\OffChain.dir\Blockchain.cpp.obj -c "D:\C++ projects\OffChain\Blockchain.cpp"
+CMakeFiles/OffChain.dir/Project/Block.cpp.obj: CMakeFiles/OffChain.dir/flags.make
+CMakeFiles/OffChain.dir/Project/Block.cpp.obj: ../Project/Block.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\C++ projects\OffChain\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/OffChain.dir/Project/Block.cpp.obj"
+	C:\Users\sarka\Downloads\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\OffChain.dir\Project\Block.cpp.obj -c "D:\C++ projects\OffChain\Project\Block.cpp"
 
-CMakeFiles/OffChain.dir/Blockchain.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OffChain.dir/Blockchain.cpp.i"
-	C:\Users\sarka\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\C++ projects\OffChain\Blockchain.cpp" > CMakeFiles\OffChain.dir\Blockchain.cpp.i
+CMakeFiles/OffChain.dir/Project/Block.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OffChain.dir/Project/Block.cpp.i"
+	C:\Users\sarka\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\C++ projects\OffChain\Project\Block.cpp" > CMakeFiles\OffChain.dir\Project\Block.cpp.i
 
-CMakeFiles/OffChain.dir/Blockchain.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OffChain.dir/Blockchain.cpp.s"
-	C:\Users\sarka\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\C++ projects\OffChain\Blockchain.cpp" -o CMakeFiles\OffChain.dir\Blockchain.cpp.s
+CMakeFiles/OffChain.dir/Project/Block.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OffChain.dir/Project/Block.cpp.s"
+	C:\Users\sarka\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\C++ projects\OffChain\Project\Block.cpp" -o CMakeFiles\OffChain.dir\Project\Block.cpp.s
 
-CMakeFiles/OffChain.dir/Blockchain.cpp.obj.requires:
+CMakeFiles/OffChain.dir/Project/Block.cpp.obj.requires:
 
-.PHONY : CMakeFiles/OffChain.dir/Blockchain.cpp.obj.requires
+.PHONY : CMakeFiles/OffChain.dir/Project/Block.cpp.obj.requires
 
-CMakeFiles/OffChain.dir/Blockchain.cpp.obj.provides: CMakeFiles/OffChain.dir/Blockchain.cpp.obj.requires
-	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/Blockchain.cpp.obj.provides.build
-.PHONY : CMakeFiles/OffChain.dir/Blockchain.cpp.obj.provides
+CMakeFiles/OffChain.dir/Project/Block.cpp.obj.provides: CMakeFiles/OffChain.dir/Project/Block.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/Project/Block.cpp.obj.provides.build
+.PHONY : CMakeFiles/OffChain.dir/Project/Block.cpp.obj.provides
 
-CMakeFiles/OffChain.dir/Blockchain.cpp.obj.provides.build: CMakeFiles/OffChain.dir/Blockchain.cpp.obj
+CMakeFiles/OffChain.dir/Project/Block.cpp.obj.provides.build: CMakeFiles/OffChain.dir/Project/Block.cpp.obj
+
+
+CMakeFiles/OffChain.dir/Project/Blockchain.cpp.obj: CMakeFiles/OffChain.dir/flags.make
+CMakeFiles/OffChain.dir/Project/Blockchain.cpp.obj: ../Project/Blockchain.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\C++ projects\OffChain\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/OffChain.dir/Project/Blockchain.cpp.obj"
+	C:\Users\sarka\Downloads\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\OffChain.dir\Project\Blockchain.cpp.obj -c "D:\C++ projects\OffChain\Project\Blockchain.cpp"
+
+CMakeFiles/OffChain.dir/Project/Blockchain.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OffChain.dir/Project/Blockchain.cpp.i"
+	C:\Users\sarka\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\C++ projects\OffChain\Project\Blockchain.cpp" > CMakeFiles\OffChain.dir\Project\Blockchain.cpp.i
+
+CMakeFiles/OffChain.dir/Project/Blockchain.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OffChain.dir/Project/Blockchain.cpp.s"
+	C:\Users\sarka\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\C++ projects\OffChain\Project\Blockchain.cpp" -o CMakeFiles\OffChain.dir\Project\Blockchain.cpp.s
+
+CMakeFiles/OffChain.dir/Project/Blockchain.cpp.obj.requires:
+
+.PHONY : CMakeFiles/OffChain.dir/Project/Blockchain.cpp.obj.requires
+
+CMakeFiles/OffChain.dir/Project/Blockchain.cpp.obj.provides: CMakeFiles/OffChain.dir/Project/Blockchain.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/Project/Blockchain.cpp.obj.provides.build
+.PHONY : CMakeFiles/OffChain.dir/Project/Blockchain.cpp.obj.provides
+
+CMakeFiles/OffChain.dir/Project/Blockchain.cpp.obj.provides.build: CMakeFiles/OffChain.dir/Project/Blockchain.cpp.obj
 
 
 # Object files for target OffChain
 OffChain_OBJECTS = \
-"CMakeFiles/OffChain.dir/main.cpp.obj" \
-"CMakeFiles/OffChain.dir/sha256.cpp.obj" \
-"CMakeFiles/OffChain.dir/Block.cpp.obj" \
-"CMakeFiles/OffChain.dir/Blockchain.cpp.obj"
+"CMakeFiles/OffChain.dir/Project/main.cpp.obj" \
+"CMakeFiles/OffChain.dir/Project/sha256.cpp.obj" \
+"CMakeFiles/OffChain.dir/Project/Block.cpp.obj" \
+"CMakeFiles/OffChain.dir/Project/Blockchain.cpp.obj"
 
 # External object files for target OffChain
 OffChain_EXTERNAL_OBJECTS =
 
-OffChain.exe: CMakeFiles/OffChain.dir/main.cpp.obj
-OffChain.exe: CMakeFiles/OffChain.dir/sha256.cpp.obj
-OffChain.exe: CMakeFiles/OffChain.dir/Block.cpp.obj
-OffChain.exe: CMakeFiles/OffChain.dir/Blockchain.cpp.obj
+OffChain.exe: CMakeFiles/OffChain.dir/Project/main.cpp.obj
+OffChain.exe: CMakeFiles/OffChain.dir/Project/sha256.cpp.obj
+OffChain.exe: CMakeFiles/OffChain.dir/Project/Block.cpp.obj
+OffChain.exe: CMakeFiles/OffChain.dir/Project/Blockchain.cpp.obj
 OffChain.exe: CMakeFiles/OffChain.dir/build.make
 OffChain.exe: CMakeFiles/OffChain.dir/linklibs.rsp
 OffChain.exe: CMakeFiles/OffChain.dir/objects1.rsp
@@ -178,10 +178,10 @@ CMakeFiles/OffChain.dir/build: OffChain.exe
 
 .PHONY : CMakeFiles/OffChain.dir/build
 
-CMakeFiles/OffChain.dir/requires: CMakeFiles/OffChain.dir/main.cpp.obj.requires
-CMakeFiles/OffChain.dir/requires: CMakeFiles/OffChain.dir/sha256.cpp.obj.requires
-CMakeFiles/OffChain.dir/requires: CMakeFiles/OffChain.dir/Block.cpp.obj.requires
-CMakeFiles/OffChain.dir/requires: CMakeFiles/OffChain.dir/Blockchain.cpp.obj.requires
+CMakeFiles/OffChain.dir/requires: CMakeFiles/OffChain.dir/Project/main.cpp.obj.requires
+CMakeFiles/OffChain.dir/requires: CMakeFiles/OffChain.dir/Project/sha256.cpp.obj.requires
+CMakeFiles/OffChain.dir/requires: CMakeFiles/OffChain.dir/Project/Block.cpp.obj.requires
+CMakeFiles/OffChain.dir/requires: CMakeFiles/OffChain.dir/Project/Blockchain.cpp.obj.requires
 
 .PHONY : CMakeFiles/OffChain.dir/requires
 

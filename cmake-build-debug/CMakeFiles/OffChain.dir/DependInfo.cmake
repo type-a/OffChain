@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/C++ projects/OffChain/Block.cpp" "D:/C++ projects/OffChain/cmake-build-debug/CMakeFiles/OffChain.dir/Block.cpp.obj"
-  "D:/C++ projects/OffChain/Blockchain.cpp" "D:/C++ projects/OffChain/cmake-build-debug/CMakeFiles/OffChain.dir/Blockchain.cpp.obj"
-  "D:/C++ projects/OffChain/main.cpp" "D:/C++ projects/OffChain/cmake-build-debug/CMakeFiles/OffChain.dir/main.cpp.obj"
-  "D:/C++ projects/OffChain/sha256.cpp" "D:/C++ projects/OffChain/cmake-build-debug/CMakeFiles/OffChain.dir/sha256.cpp.obj"
+  "D:/C++ projects/OffChain/Project/Block.cpp" "D:/C++ projects/OffChain/cmake-build-debug/CMakeFiles/OffChain.dir/Project/Block.cpp.obj"
+  "D:/C++ projects/OffChain/Project/Blockchain.cpp" "D:/C++ projects/OffChain/cmake-build-debug/CMakeFiles/OffChain.dir/Project/Blockchain.cpp.obj"
+  "D:/C++ projects/OffChain/Project/main.cpp" "D:/C++ projects/OffChain/cmake-build-debug/CMakeFiles/OffChain.dir/Project/main.cpp.obj"
+  "D:/C++ projects/OffChain/Project/sha256.cpp" "D:/C++ projects/OffChain/cmake-build-debug/CMakeFiles/OffChain.dir/Project/sha256.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

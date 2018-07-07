@@ -80,31 +80,31 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/C++ projects/OffChain/Block.cpp">
+		<Unit filename="D:/C++ projects/OffChain/Project/Block.cpp">
 			<Option target="OffChain"/>
 		</Unit>
-		<Unit filename="D:/C++ projects/OffChain/Block.h">
+		<Unit filename="D:/C++ projects/OffChain/Project/Block.h">
 			<Option target="OffChain"/>
 		</Unit>
-		<Unit filename="D:/C++ projects/OffChain/Blockchain.cpp">
+		<Unit filename="D:/C++ projects/OffChain/Project/Blockchain.cpp">
 			<Option target="OffChain"/>
 		</Unit>
-		<Unit filename="D:/C++ projects/OffChain/Blockchain.h">
+		<Unit filename="D:/C++ projects/OffChain/Project/Blockchain.h">
 			<Option target="OffChain"/>
 		</Unit>
-		<Unit filename="D:/C++ projects/OffChain/atomic_swap.h">
+		<Unit filename="D:/C++ projects/OffChain/Project/atomic_swap.h">
 			<Option target="OffChain"/>
 		</Unit>
-		<Unit filename="D:/C++ projects/OffChain/block.h">
+		<Unit filename="D:/C++ projects/OffChain/Project/block.h">
 			<Option target="OffChain"/>
 		</Unit>
-		<Unit filename="D:/C++ projects/OffChain/main.cpp">
+		<Unit filename="D:/C++ projects/OffChain/Project/main.cpp">
 			<Option target="OffChain"/>
 		</Unit>
-		<Unit filename="D:/C++ projects/OffChain/sha256.cpp">
+		<Unit filename="D:/C++ projects/OffChain/Project/sha256.cpp">
 			<Option target="OffChain"/>
 		</Unit>
-		<Unit filename="D:/C++ projects/OffChain/sha256.h">
+		<Unit filename="D:/C++ projects/OffChain/Project/sha256.h">
 			<Option target="OffChain"/>
 		</Unit>
 		<Unit filename="D:/C++ projects/OffChain/CMakeLists.txt">

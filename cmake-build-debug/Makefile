@@ -122,113 +122,113 @@ OffChain/fast:
 	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/build
 .PHONY : OffChain/fast
 
-Block.obj: Block.cpp.obj
+Project/Block.obj: Project/Block.cpp.obj
 
-.PHONY : Block.obj
-
-# target to build an object file
-Block.cpp.obj:
-	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/Block.cpp.obj
-.PHONY : Block.cpp.obj
-
-Block.i: Block.cpp.i
-
-.PHONY : Block.i
-
-# target to preprocess a source file
-Block.cpp.i:
-	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/Block.cpp.i
-.PHONY : Block.cpp.i
-
-Block.s: Block.cpp.s
-
-.PHONY : Block.s
-
-# target to generate assembly for a file
-Block.cpp.s:
-	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/Block.cpp.s
-.PHONY : Block.cpp.s
-
-Blockchain.obj: Blockchain.cpp.obj
-
-.PHONY : Blockchain.obj
+.PHONY : Project/Block.obj
 
 # target to build an object file
-Blockchain.cpp.obj:
-	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/Blockchain.cpp.obj
-.PHONY : Blockchain.cpp.obj
+Project/Block.cpp.obj:
+	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/Project/Block.cpp.obj
+.PHONY : Project/Block.cpp.obj
 
-Blockchain.i: Blockchain.cpp.i
+Project/Block.i: Project/Block.cpp.i
 
-.PHONY : Blockchain.i
+.PHONY : Project/Block.i
 
 # target to preprocess a source file
-Blockchain.cpp.i:
-	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/Blockchain.cpp.i
-.PHONY : Blockchain.cpp.i
+Project/Block.cpp.i:
+	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/Project/Block.cpp.i
+.PHONY : Project/Block.cpp.i
 
-Blockchain.s: Blockchain.cpp.s
+Project/Block.s: Project/Block.cpp.s
 
-.PHONY : Blockchain.s
+.PHONY : Project/Block.s
 
 # target to generate assembly for a file
-Blockchain.cpp.s:
-	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/Blockchain.cpp.s
-.PHONY : Blockchain.cpp.s
+Project/Block.cpp.s:
+	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/Project/Block.cpp.s
+.PHONY : Project/Block.cpp.s
 
-main.obj: main.cpp.obj
+Project/Blockchain.obj: Project/Blockchain.cpp.obj
 
-.PHONY : main.obj
+.PHONY : Project/Blockchain.obj
 
 # target to build an object file
-main.cpp.obj:
-	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/main.cpp.obj
-.PHONY : main.cpp.obj
+Project/Blockchain.cpp.obj:
+	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/Project/Blockchain.cpp.obj
+.PHONY : Project/Blockchain.cpp.obj
 
-main.i: main.cpp.i
+Project/Blockchain.i: Project/Blockchain.cpp.i
 
-.PHONY : main.i
+.PHONY : Project/Blockchain.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/main.cpp.i
-.PHONY : main.cpp.i
+Project/Blockchain.cpp.i:
+	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/Project/Blockchain.cpp.i
+.PHONY : Project/Blockchain.cpp.i
 
-main.s: main.cpp.s
+Project/Blockchain.s: Project/Blockchain.cpp.s
 
-.PHONY : main.s
+.PHONY : Project/Blockchain.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/main.cpp.s
-.PHONY : main.cpp.s
+Project/Blockchain.cpp.s:
+	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/Project/Blockchain.cpp.s
+.PHONY : Project/Blockchain.cpp.s
 
-sha256.obj: sha256.cpp.obj
+Project/main.obj: Project/main.cpp.obj
 
-.PHONY : sha256.obj
+.PHONY : Project/main.obj
 
 # target to build an object file
-sha256.cpp.obj:
-	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/sha256.cpp.obj
-.PHONY : sha256.cpp.obj
+Project/main.cpp.obj:
+	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/Project/main.cpp.obj
+.PHONY : Project/main.cpp.obj
 
-sha256.i: sha256.cpp.i
+Project/main.i: Project/main.cpp.i
 
-.PHONY : sha256.i
+.PHONY : Project/main.i
 
 # target to preprocess a source file
-sha256.cpp.i:
-	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/sha256.cpp.i
-.PHONY : sha256.cpp.i
+Project/main.cpp.i:
+	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/Project/main.cpp.i
+.PHONY : Project/main.cpp.i
 
-sha256.s: sha256.cpp.s
+Project/main.s: Project/main.cpp.s
 
-.PHONY : sha256.s
+.PHONY : Project/main.s
 
 # target to generate assembly for a file
-sha256.cpp.s:
-	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/sha256.cpp.s
-.PHONY : sha256.cpp.s
+Project/main.cpp.s:
+	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/Project/main.cpp.s
+.PHONY : Project/main.cpp.s
+
+Project/sha256.obj: Project/sha256.cpp.obj
+
+.PHONY : Project/sha256.obj
+
+# target to build an object file
+Project/sha256.cpp.obj:
+	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/Project/sha256.cpp.obj
+.PHONY : Project/sha256.cpp.obj
+
+Project/sha256.i: Project/sha256.cpp.i
+
+.PHONY : Project/sha256.i
+
+# target to preprocess a source file
+Project/sha256.cpp.i:
+	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/Project/sha256.cpp.i
+.PHONY : Project/sha256.cpp.i
+
+Project/sha256.s: Project/sha256.cpp.s
+
+.PHONY : Project/sha256.s
+
+# target to generate assembly for a file
+Project/sha256.cpp.s:
+	$(MAKE) -f CMakeFiles\OffChain.dir\build.make CMakeFiles/OffChain.dir/Project/sha256.cpp.s
+.PHONY : Project/sha256.cpp.s
 
 # Help Target
 help:
@@ -239,18 +239,18 @@ help:
 	@echo ... OffChain
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... Block.obj
-	@echo ... Block.i
-	@echo ... Block.s
-	@echo ... Blockchain.obj
-	@echo ... Blockchain.i
-	@echo ... Blockchain.s
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
-	@echo ... sha256.obj
-	@echo ... sha256.i
-	@echo ... sha256.s
+	@echo ... Project/Block.obj
+	@echo ... Project/Block.i
+	@echo ... Project/Block.s
+	@echo ... Project/Blockchain.obj
+	@echo ... Project/Blockchain.i
+	@echo ... Project/Blockchain.s
+	@echo ... Project/main.obj
+	@echo ... Project/main.i
+	@echo ... Project/main.s
+	@echo ... Project/sha256.obj
+	@echo ... Project/sha256.i
+	@echo ... Project/sha256.s
 .PHONY : help
 
 
