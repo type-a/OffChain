@@ -82,7 +82,9 @@ targeted to build a working blockchain prototype.
 ## Usage
 
 ~~~
-
+>>cd Projects
+>>g++ main.cpp sha256.h sha256.cpp block.h Blockchain.h Block.cpp Blockchain.cpp atomic_swap.h
+>>a.exe
 ~~~
 
 ## Save and Restore
